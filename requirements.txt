@@ -1,0 +1,2 @@
+bleak>=0.21.0
+asyncio; python_version < "3.12"
